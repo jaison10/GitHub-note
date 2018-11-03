@@ -1,3 +1,7 @@
 #GitHub
 ##Hello ! Here we learn how to use Git for GitHub. 
 
+- Download GitBash and login with your GitHub account. 
+
+Clone 
+Give git init frst which creates an .git file..
