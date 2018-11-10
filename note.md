@@ -7,7 +7,7 @@
 - Click on ``` Clone or download ``` and copy the URL shown there. 
 - Goto Gitbash and run ```npm install```. 
 - Clone that repository into your Computer through the command ```git clone <URL>```.
-<br /> _ For example: ```git clone jaison10/GitHub-note```. 
+<br>  For example: ```git clone jaison10/GitHub-note```. 
 - Run ```git init``` which creates a .git file in that repository.
 - Run ```git branch <branchname>``` to create new branch.
 - Run ```git checkout <branchname> ``` to jump into newly created branch. 
@@ -20,7 +20,7 @@
 - Push the changes you did through running ```git push -u origin master```.
 <br>
 <br>
-If you want to push from other branch, run ```git push -u origin <branch name>```.
+If you want to push from other branch, run ```git push -u origin <branchname>```.
 
 
 ## THANK YOU ! 
