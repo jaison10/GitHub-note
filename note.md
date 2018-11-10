@@ -18,8 +18,7 @@
 - Then commit the changes by running ```commit -m "mention the changes"```. 
 - Running ```git log``` lists down all the commits you did.
 - Push the changes you did through running ```git push -u origin master```.
-<br>
-<br>
+
 - If you want to push from other branch, run ```git push -u origin master```.
 
 
