@@ -20,9 +20,9 @@
 - Push the changes you did through running ```git push -u origin master```.
 <br>
 <br>
-If you want to push from other branch, run ```git push -u origin <branchname>```.
+If you want to push from other branch, run ``` git push -u origin <branchname> ```.
 
 
-## THANK YOU ! 
+## THANK YOU ! :heart:
 
 
