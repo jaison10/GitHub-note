@@ -14,6 +14,7 @@
 - Then go to the folder and make the changes you are willing to.
 - After all the editing, come back to ```master``` branch through ```git checkout master```. 
 - Run ```git merge branch_name master```.
+- Run ```git add -A```.
 - Running ```git status``` finds the changes you did.
 - Then commit the changes by running ```commit -m "mention the changes"```. 
 - Running ```git log``` lists down all the commits you did.
