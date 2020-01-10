@@ -32,6 +32,22 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 
 ```git pull origin master```
 
+## Pushing pulling project from github using command prompt
+
+https://www.tutsmake.com/upload-project-files-on-github-using-command-line/
+
+
+In order to edit someone else's file in their repository
+
+```git clone url``` clone the repository
+fork is created
+
+```git remote add name forked-repository-url``` add forked repository link
+
+```git push name master``` push into your forked repository
+
+go to the site send pull requests
+
 ## THANK YOU ! :heart:
 
 ## Basic info to push pull project to github using command prompt
