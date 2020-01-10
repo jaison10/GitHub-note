@@ -36,6 +36,8 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 
 https://www.tutsmake.com/upload-project-files-on-github-using-command-line/
 
+All these are verified commands
+
 ## THANK YOU ! :heart:
 
 
