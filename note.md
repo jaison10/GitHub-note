@@ -23,6 +23,10 @@
  If you want to push from other branch, run ```git push -u origin <branchname>```.
 
 
+## Adding an existing project to GitHub using the command line
+
+https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+
 ## THANK YOU ! :heart:
 
 
