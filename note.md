@@ -34,4 +34,6 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 
 ## THANK YOU ! :heart:
 
+## Basic info to push pull project to github using command prompt
 
+https://www.tutsmake.com/upload-project-files-on-github-using-command-line/
