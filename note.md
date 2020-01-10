@@ -36,9 +36,17 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 
 https://www.tutsmake.com/upload-project-files-on-github-using-command-line/
 
-All these are verified commands
 
-Hello world
+In order to edit someone else's file in their repository
+
+```git clone url``` clone the repository
+fork is created
+
+```git remote add name forked-repository-url``` add forked repository link
+
+```git push name master``` push into your forked repository
+
+go to the site send pull requests
 
 ## THANK YOU ! :heart:
 
