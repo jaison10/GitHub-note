@@ -28,7 +28,7 @@
 https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
 
 
-## For cloning the changes made by co-ordinator to your existing project in your local folder,
+## For cloning the changes made by collaborater to your existing project in your local folder,
 
 ```git pull origin master```
 
