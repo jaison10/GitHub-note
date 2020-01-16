@@ -21,7 +21,10 @@
 - Push the changes you did through running ```git push -u origin master```.
 
  If you want to push from other branch, run ```git push -u origin <branchname>```.
-
+ 
+ If you want to remove the remote to which its already pointing and to remote it to other directory, use
+ ```git remote remove origin```
+ 
 
 ## Adding an existing project to GitHub using the command line
 
