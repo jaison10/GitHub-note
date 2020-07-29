@@ -28,10 +28,15 @@
 ## Pushing an existing Git repository to other repo
 
 ```cd existing_repo```
+
 ```git remote rename origin old-origin```
+
 ```git remote add origin https://gitlab.com/healthelife_internship_project_group/frontend-development.git```
+
 ```git push -u origin --all```
+
 ```git push -u origin --tags```
+
 
 
 ## Adding an existing project to GitHub using the command line
