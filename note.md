@@ -25,6 +25,14 @@
  If you want to remove the remote to which its already pointing and to remote it to other directory, use
  ```git remote remove origin```
  
+## Pushing an existing Git repository to other repo
+
+```cd existing_repo```
+```git remote rename origin old-origin```
+```git remote add origin https://gitlab.com/healthelife_internship_project_group/frontend-development.git```
+```git push -u origin --all```
+```git push -u origin --tags```
+
 
 ## Adding an existing project to GitHub using the command line
 
@@ -35,8 +43,11 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 
 ```git pull origin master```
 
-## THANK YOU ! :heart:
 
 ## Basic info to push pull project to github using command prompt
 
 https://www.tutsmake.com/upload-project-files-on-github-using-command-line/
+
+
+
+## THANK YOU ! :heart:
